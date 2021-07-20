@@ -1,10 +1,13 @@
 import React from 'react';
 import Layout from '../components/layout';
-// import { Link } from "gatsby"
+import ImagenHotel from '../components/imagenHotel';
+import ContenidoInicio from '../components/contenidoinicio';
 
 const IndexPage = () => (
   <Layout>
-    <h1>Index</h1>
+    <ImagenHotel />
+
+    <ContenidoInicio />
   </Layout>
 )
 
