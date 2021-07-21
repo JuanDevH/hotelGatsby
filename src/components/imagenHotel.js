@@ -57,8 +57,8 @@ const ImagenHotel = () => {
             fadeIn="soft"
         >
             <ImageText>
-                <h1>Bienvenido a Hotel JuanDev</h1>
-                <p>El mejor hotel para tus vacaciones</p>
+                <h1>Bienvenido a Hotel Gatsby</h1>
+                <p>El mejor lugar para tus vacaciones</p>
             </ImageText>
         </ImageBackground>
     );
